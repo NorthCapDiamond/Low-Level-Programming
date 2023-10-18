@@ -1,0 +1,11 @@
+h -- help
+q -- exit 
+i -- show all nodes
+p / p uint64 -- detailed info for concrete node 
+n -- add new node 
+u / u uint64 -- append new unsigned integer to node with id = param
+d / d uint64 -- append new double to node with id = param
+s / s uint64 -- append new string to node with id = param
+c / c uint64 uint64 -- connect 2 nodes by id
+r / r uint64 -- remove node by id
+t -- remove nodes
