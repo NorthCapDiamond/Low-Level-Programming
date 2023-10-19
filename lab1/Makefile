@@ -1,17 +1,19 @@
-main: main.o node.o file.o 
-	gcc main.o node.o file.o -o main -Wno-coverage-mismatch
+MYWARNINGS:=-Wall -Wextra -Wpedantic
+
+main: main.o node.o file.o test
+	clang-format -i *.c *.h
+	gcc $(MYWARNINGS) main.o node.o file.o -o main
 
 main.o: main.c
-	gcc main.c -c -Wno-coverage-mismatch
+	gcc $(MYWARNINGS) main.c -c
 
 test: test.o node.o file.o 
-	gcc test.o node.o file.o -o test -Wno-coverage-mismatch
-
+	gcc $(MYWARNINGS) test.o node.o file.o -o test
 test.o: test.c
-	gcc test.c -c -Wno-coverage-mismatch
+	gcc $(MYWARNINGS) test.c -c
 
 node.o: node.h node.c
-	gcc node.c -c -Wno-coverage-mismatch
+	gcc $(MYWARNINGS) node.c -c
 
 file.o: file.h file.c 
-	gcc file.c -c -Wno-coverage-mismatch
+	gcc $(MYWARNINGS) file.c -c
