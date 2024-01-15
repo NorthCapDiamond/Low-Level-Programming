@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message Answer{
+	uint64 id = 1;
+	string uint_attrs = 2;
+	string double_attrs = 3;
+	string string_attrs = 4;
+	string msg = 5;
+}
