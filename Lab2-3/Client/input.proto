@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+message Uint_array{
+	uint64 value = 1;
+	Uint_array next = 2;
+}
+
+message Double_array{
+	double value = 1;
+	Double_array next = 2;
+}
+
+message String_array{
+	string value = 1;
+	String_array next = 2;
+}
+
+message Node {
+	uint64 id = 1;
+
+	uint64 d = 2;
+	Uint_array nodes = 3;
+
+	Node next_node = 4;
+
+	uint64 n_ints = 5;
+	Uint_array ints_array_ptr = 6;
+
+	uint64 n_doubles = 7;
+	Double_array doubles_array_ptr = 8;
+
+	uint64 n_strings = 9;
+	String_array strings_array_ptr = 10;
+
+	string msg = 11;
+}

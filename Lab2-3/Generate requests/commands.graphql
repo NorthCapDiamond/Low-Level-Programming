@@ -1,0 +1,286 @@
+
+data.db{link(1, 1001)}
+
+data.db{link(8, 1002)}
+
+data.db{link(4, 1003)}
+
+data.db{link(14, 1004)}
+
+data.db{link(2, 1005)}
+
+data.db{link(15, 1006)}
+
+data.db{link(16, 1007)}
+
+data.db{link(17, 1008)}
+
+data.db{link(18, 1009)}
+
+data.db{link(20, 1010)}
+
+data.db{link(19, 1011)}
+
+data.db{link(21, 1012)}
+
+data.db{link(22, 1013)}
+
+data.db{link(23, 1014)}
+
+data.db{link(24, 1015)}
+
+data.db{link(25, 1016)}
+
+data.db{link(26, 1017)}
+
+data.db{link(27, 1018)}
+
+data.db{link(28, 1019)}
+
+data.db{link(29, 1020)}
+
+data.db{link(3, 1021)}
+
+data.db{link(35, 1022)}
+
+data.db{link(30, 1023)}
+
+data.db{link(31, 1024)}
+
+data.db{link(32, 1025)}
+
+data.db{link(34, 1026)}
+
+data.db{link(33, 1027)}
+
+data.db{link(39, 1028)}
+
+data.db{link(36, 1029)}
+
+data.db{link(37, 1030)}
+
+data.db{link(44, 1031)}
+
+data.db{link(38, 1032)}
+
+data.db{link(40, 1033)}
+
+data.db{link(41, 1034)}
+
+data.db{link(46, 1035)}
+
+data.db{link(43, 1036)}
+
+data.db{link(42, 1037)}
+
+data.db{link(51, 1038)}
+
+data.db{link(45, 1039)}
+
+data.db{link(50, 1040)}
+
+data.db{link(47, 1041)}
+
+data.db{link(48, 1042)}
+
+data.db{link(49, 1043)}
+
+data.db{link(52, 1044)}
+
+data.db{link(53, 1045)}
+
+data.db{link(54, 1046)}
+
+data.db{link(55, 1047)}
+
+data.db{link(58, 1048)}
+
+data.db{link(57, 1049)}
+
+data.db{link(56, 1050)}
+
+data.db{link(61, 1051)}
+
+data.db{link(59, 1052)}
+
+data.db{link(63, 1053)}
+
+data.db{link(60, 1054)}
+
+data.db{link(62, 1055)}
+
+data.db{link(64, 1056)}
+
+data.db{link(66, 1057)}
+
+data.db{link(65, 1058)}
+
+data.db{link(67, 1059)}
+
+data.db{link(68, 1060)}
+
+data.db{link(69, 1061)}
+
+data.db{link(71, 1062)}
+
+data.db{link(70, 1063)}
+
+data.db{link(72, 1064)}
+
+data.db{link(74, 1065)}
+
+data.db{link(73, 1066)}
+
+data.db{link(75, 1067)}
+
+data.db{link(76, 1068)}
+
+data.db{link(77, 1069)}
+
+data.db{link(78, 1070)}
+
+data.db{link(79, 1071)}
+
+data.db{link(80, 1072)}
+
+data.db{link(81, 1073)}
+
+data.db{link(82, 1074)}
+
+data.db{link(84, 1075)}
+
+data.db{link(83, 1076)}
+
+data.db{link(86, 1077)}
+
+data.db{link(85, 1078)}
+
+data.db{link(5, 1079)}
+
+data.db{link(87, 1080)}
+
+data.db{link(88, 1081)}
+
+data.db{link(6, 1082)}
+
+data.db{link(89, 1083)}
+
+data.db{link(90, 1084)}
+
+data.db{link(91, 1085)}
+
+data.db{link(92, 1086)}
+
+data.db{link(94, 1087)}
+
+data.db{link(93, 1088)}
+
+data.db{link(95, 1089)}
+
+data.db{link(96, 1090)}
+
+data.db{link(97, 1091)}
+
+data.db{link(98, 1092)}
+
+data.db{link(99, 1093)}
+
+data.db{link(100, 1094)}
+
+data.db{link(101, 1095)}
+
+data.db{link(102, 1096)}
+
+data.db{link(103, 1097)}
+
+data.db{link(105, 1098)}
+
+data.db{link(104, 1099)}
+
+data.db{link(106, 1100)}
+
+data.db{link(108, 1101)}
+
+data.db{link(107, 1102)}
+
+data.db{link(109, 1103)}
+
+data.db{link(110, 1104)}
+
+data.db{link(111, 1105)}
+
+data.db{link(112, 1106)}
+
+data.db{link(113, 1107)}
+
+data.db{link(114, 1108)}
+
+data.db{link(115, 1109)}
+
+data.db{link(9, 1110)}
+
+data.db{link(117, 1111)}
+
+data.db{link(116, 1112)}
+
+data.db{link(118, 1113)}
+
+data.db{link(119, 1114)}
+
+data.db{link(120, 1115)}
+
+data.db{link(121, 1116)}
+
+data.db{link(122, 1117)}
+
+data.db{link(123, 1118)}
+
+data.db{link(124, 1119)}
+
+data.db{link(125, 1120)}
+
+data.db{link(847, 1121)}
+
+data.db{link(848, 1122)}
+
+data.db{link(846, 1123)}
+
+data.db{link(845, 1124)}
+
+data.db{link(844, 1125)}
+
+data.db{link(842, 1126)}
+
+data.db{link(843, 1127)}
+
+data.db{link(841, 1128)}
+
+data.db{link(840, 1129)}
+
+data.db{link(839, 1130)}
+
+data.db{link(837, 1131)}
+
+data.db{link(838, 1132)}
+
+data.db{link(836, 1133)}
+
+data.db{link(832, 1134)}
+
+data.db{link(835, 1135)}
+
+data.db{link(831, 1136)}
+
+data.db{link(833, 1137)}
+
+data.db{link(829, 1138)}
+
+data.db{link(828, 1139)}
+
+data.db{link(830, 1140)}
+
+data.db{link(827, 1141)}
+
+data.db{link(825, 1142)}
+
+data.db{link(826, 1143)}
